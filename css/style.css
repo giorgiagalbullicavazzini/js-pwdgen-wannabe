@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(164, 220, 255);
+  color: rgb(7, 6, 73);
+  font-family: 'Kaushan Script', cursive;
+}
+
+.text {
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  font-size: 4.375rem;
+}
+
+h2, h3 {
+  font-size: 2.5rem;
+}
